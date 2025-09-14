@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import axios from "axios";
 import { toast } from "react-toastify";
 
-const backendUrl = "http://localhost:4000";
+const backendUrl = "https://full-stack-6lnv.onrender.com";
 
 export default function List() {
   const [list, setList] = useState([]);
