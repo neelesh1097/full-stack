@@ -61,3 +61,37 @@ It allows users to **browse clothing products, view details, add to cart, and ma
  ┃ ┃ ┗ App.js          # Routing setup
  ┗ README.md           # Project documentation
 
+
+
+🌐 Deployment
+🔹 Backend (Render)
+
+Add npm start as Start Command in Render.
+
+Add environment variables in Render Dashboard.
+
+🔹 Frontend (Render)
+
+Build command: npm run build
+
+Publish directory: frontend/build
+
+
+
+📌 Future Enhancements
+
+🔍 Search & Filter Products
+
+⭐ Product Reviews & Ratings
+
+📱 Better Mobile Responsiveness
+
+🛒 Guest Checkout
+
+📦 Order Tracking
+
+🤝 Contributing
+
+Pull requests are welcome!
+For major changes, open an issue first to discuss what you’d like to change.
+
