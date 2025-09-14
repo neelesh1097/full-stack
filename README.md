@@ -13,7 +13,7 @@ It allows users to **browse clothing products, view details, add to cart, and ma
 ✔️ **Product Catalog** – Browse clothing products  
 ✔️ **Product Details Page** – Dynamic route with description, price, etc.  
 ✔️ **Shopping Cart** – Add, update, and remove products  
-✔️ **Wishlist / Favorites** (optional)  
+✔️ **Wishlist / Favorites**  
 
 ### 🛠️ Admin Side  
 ✔️ **Add / Edit / Delete Products**  
