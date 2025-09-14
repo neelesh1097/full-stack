@@ -15,7 +15,7 @@ const Login = ({ setToken }) => {
     setError('')
     setLoading(true)
     try {
-      const res = await axios.post('http://localhost:4000/api/user/admin-login', form)
+      const res = await axios.post('https://full-stack-6lnv.onrender.com/api/user/admin-login', form)
       if (res.data.success && res.data.token) {
         localStorage.setItem('adminToken', res.data.token)
         setToken(res.data.token)
