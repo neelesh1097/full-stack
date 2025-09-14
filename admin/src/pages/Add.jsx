@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import axios from 'axios'
 
-const backendUrl = 'http://localhost:4000'
+const backendUrl = 'https://full-stack-6lnv.onrender.com'
 
 export default function Add() {
   // Images (store File and preview URL)
