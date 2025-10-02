@@ -93,5 +93,5 @@ Publish directory: frontend/build
 🤝 Contributing
 
 Pull requests are welcome!
-For major changes, open an issue first to discuss what you’d like to change
+For major changes, open an issue first to discuss what you’d like to change ..
 
